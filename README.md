@@ -21,7 +21,7 @@ This is a brain tumor classification model created using CNN transfer learning t
    python manage.py migrate
    python manage.py runserver
 
-   ![image](https://github.com/anu81785/brain_tumor_classification_into_17_classes/assets/89373629/c674b0c9-deb1-4655-ac1e-9dde127414a9)
+   ![Screenshot from 2023-09-01 17-20-16](https://github.com/anu81785/brain_tumor_classification_into_17_classes/assets/89373629/3de9c5eb-f486-4af3-b1be-61d97c5df148)
 
    Open the url http://127.0.0.1:8000 in your browser
 

@@ -39,10 +39,18 @@ This is a brain tumor classification model created using transfer learning with 
 * Upload the brain MRI image for which you want to detect the tumor type
 
   ![tuxpi com 1693572451](https://github.com/anu81785/brain_tumor_classification_into_17_classes/assets/89373629/1716e35b-7f0f-42e0-9b22-7874fbae8d50)
+
+
+## Plots for Loss and Accuracy for Training and Validation Set
+
+![plots](https://github.com/anu81785/brain_tumor_classification_into_17_classes/assets/89373629/a1ecfda8-cf3a-4b8b-b2ae-49baabe03ef5)
+
   
 
 ## Confusion Matrix for Test Data
 
 
   ![index](https://github.com/anu81785/brain_tumor_classification_into_17_classes/assets/89373629/a7b5d9cc-bd28-4918-a00b-a3a97d712ff4)
+
+
 

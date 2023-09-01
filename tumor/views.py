@@ -9,7 +9,6 @@ def classify_tumor(request):
         uploaded_file = request.FILES['tumor_image']
         model = load_model()  
         image = preprocess_image(uploaded_file) 
-        print(image.shape)
         with torch.no_grad():
             prediction=model(image)
         result = process_prediction(prediction)

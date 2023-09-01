@@ -3,21 +3,22 @@ This is a brain tumor classification model created using CNN transfer learning t
 
 # Steps to run the model
 1. Download the github folder to you local server using following command:
+   
    git clone https://github.com/anu81785/brain_tumor_classification_into_17_classes.git
 
-2. Change the directory to downloaded folder:
+3. Change the directory to downloaded folder:
    cd brain_tumor_classification_into_17_classes
 
-3. Create a virtual environment using python:
+4. Create a virtual environment using python:
    python -m venv env_name
 
-4. Activate the virtual environment:
+5. Activate the virtual environment:
    source env_name/bin/activate
 
-5. Now download all the required packages inside this virtual environment using following command:
+6. Now download all the required packages inside this virtual environment using following command:
    pip install -r requirements.txt
 
-6. Start the following commands to apply the migrations and runserver
+7. Start the following commands to apply the migrations and runserver
    python manage.py migrate
    python manage.py runserver
 

@@ -36,7 +36,10 @@ This is a brain tumor classification model created using CNN transfer learning t
 
 * Upload the brain MRI image for which you want to detect the tumor type
 
-  ![tuxpi com 1693572275](https://github.com/anu81785/brain_tumor_classification_into_17_classes/assets/89373629/598fd964-4ce7-4259-a224-f5a513efd4f6)
+  ![tuxpi com 1693572451](https://github.com/anu81785/brain_tumor_classification_into_17_classes/assets/89373629/1716e35b-7f0f-42e0-9b22-7874fbae8d50)
+
+
+  
 
   
 

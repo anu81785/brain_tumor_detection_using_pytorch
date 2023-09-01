@@ -3,10 +3,10 @@ This is a brain tumor classification model created using CNN transfer learning t
 
 # Steps to run the model
 1. Download the github folder to you local server using following command:
-   
-   * git clone https://github.com/anu81785/brain_tumor_classification_into_17_classes.git
 
-3. Change the directory to downloaded folder:
+* git clone https://github.com/anu81785/brain_tumor_classification_into_17_classes.git
+
+4. Change the directory to downloaded folder:
    
    cd brain_tumor_classification_into_17_classes
 

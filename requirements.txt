@@ -1,0 +1,5 @@
+django==4.1 
+django-clearcache==1.2.1
+Pillow==9.4.0
+torch==2.0.1
+torchvision==0.15.2

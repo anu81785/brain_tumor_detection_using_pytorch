@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Classification Result</title>
+</head>
+<body>
+    <h1>Classification Result</h1>
+    {% if result %}
+        <p>Predicted class: {{ result }}</p>
+    {% else %}
+        <p>No result available.</p>
+    {% endif %}
+    <a href="{% url 'upload' %}">Upload another image</a>
+</body>
+</html>

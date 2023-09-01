@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Upload Tumor Image</title>
+</head>
+<body>
+    <h1>Upload Tumor Image</h1>
+    <form method="post" enctype="multipart/form-data">
+        {% csrf_token %}
+        <label for="tumor_image">Select an image:</label>
+        <input type="file" name="tumor_image" id="tumor_image">
+        <br>
+        <button type="submit">Upload and Classify</button>
+    </form>
+</body>
+</html>

@@ -32,8 +32,7 @@ This is a brain tumor classification model created using transfer learning with 
 
 * Open the url http://127.0.0.1:8000 in your browser
 
-  ![tuxpi com 1693572025](https://github.com/anu81785/brain_tumor_classification_into_17_classes/assets/89373629/a0f94517-e2a9-42a6-ac50-6d33ac130200)![index](https://github.com/anu81785/brain_tumor_classification_into_17_classes/assets/89373629/f09b3393-5db7-4f4b-b287-e3edffe13860)
-
+  ![tuxpi com 1693572025](https://github.com/anu81785/brain_tumor_classification_into_17_classes/assets/89373629/a0f94517-e2a9-42a6-ac50-6d33ac130200)
 
 * Upload the brain MRI image for which you want to detect the tumor type
 

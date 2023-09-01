@@ -32,7 +32,7 @@ This is a brain tumor classification model created using CNN transfer learning t
 
    Open the url http://127.0.0.1:8000 in your browser
 
-   ![Screenshot from 2023-09-01 18-01-01](https://github.com/anu81785/brain_tumor_classification_into_17_classes/assets/89373629/24a830f9-d153-44c4-bc2b-26a503209443)
+  ![tuxpi com 1693572025](https://github.com/anu81785/brain_tumor_classification_into_17_classes/assets/89373629/a0f94517-e2a9-42a6-ac50-6d33ac130200)
 
 
    

@@ -1,7 +1,7 @@
 # brain_tumor_classification_into_17_classes
 This is a brain tumor classification model created using transfer learning with resnet-50 model to classify the brain tumor MRI images into 17 classes. The model has achieved an accuracy of 97% on test data.
 
-# Steps to run the model
+# Steps to run the website
 * Download the github folder to you local server using following command:
 
   * git clone https://github.com/anu81785/brain_tumor_classification_into_17_classes.git

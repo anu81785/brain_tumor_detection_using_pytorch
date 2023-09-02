@@ -1,4 +1,4 @@
-# brain_tumor_classification_into_17_classes
+# Brain Tumor Detection Using Pytorch Model
 This is a brain tumor classification model created using transfer learning with resnet-50 model to classify the brain tumor MRI images into 17 classes. The model has achieved an accuracy of 97% on test data.
 
 
@@ -18,7 +18,7 @@ This is a brain tumor classification model created using transfer learning with 
 
 * Activate the virtual environment:
    
-   * source env_name/bin/activate
+   * source /path/to/venv/bin/activate
 
 * Now download all the required packages inside this virtual environment using following command:
     

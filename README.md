@@ -40,6 +40,10 @@ This is a brain tumor classification model created using transfer learning with 
 
   ![tuxpi com 1693572451](https://github.com/anu81785/brain_tumor_classification_into_17_classes/assets/89373629/1716e35b-7f0f-42e0-9b22-7874fbae8d50)
 
+## Link to Dataset (MRI images of brain) from kaggle
+
+* https://www.kaggle.com/datasets/fernando2rad/brain-tumor-mri-images-17-classes
+  
 
 ## Plots for Loss and Accuracy for Training and Validation Set
 
